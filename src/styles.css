@@ -1,0 +1,8 @@
+body {
+  background-color: #e4f9f5;
+  margin: 0;
+  min-height: 100vh;
+}
+
+/* marginを0にしたのは、ヘッダーの左右に余分なスペースが生まれるから。*/
+/* mih-heightは、画面の縦の最小の大きさを決める。 */
